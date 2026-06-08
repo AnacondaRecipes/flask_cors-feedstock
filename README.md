@@ -1,3 +1,5 @@
+Archived as of 6/2/2026. Latest development will we here: https://github.com/AnacondaRecipes/flask-cors-feedstock
+
 About flask_cors
 ================
 
